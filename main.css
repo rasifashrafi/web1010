@@ -1,0 +1,27 @@
+/* q1 */
+h1{
+    color: red;
+}
+/* q2 */
+.colleges{
+    background-color: #c83;
+}
+/* q3 */
+ul.topics{
+    list-style-type: none;
+}
+/* q4 */
+figure img{
+    max-width: 300px;
+}
+/* q5 */
+figure{
+    display: inline-block;
+}
+/* q6 */
+figure{
+    margin: 20px;
+}
+/* q7 */
+/* html code */
+
